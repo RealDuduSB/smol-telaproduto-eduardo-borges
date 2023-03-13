@@ -4,7 +4,7 @@
             "outputFile": "com.example.teste_smol.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/edusborges/StudioProjects/teste_smol/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/edusborges/Desenvolvimento/smol-telaproduto-eduardo-borges/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

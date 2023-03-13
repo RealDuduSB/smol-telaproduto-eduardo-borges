@@ -1,4 +1,4 @@
-#Mon Mar 06 19:57:14 BRT 2023
-base.0=/Users/edusborges/StudioProjects/teste_smol/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Mar 13 11:47:39 BRT 2023
+base.0=/Users/edusborges/Desenvolvimento/smol-telaproduto-eduardo-borges/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
